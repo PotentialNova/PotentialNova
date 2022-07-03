@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PotentialNova
-- 👀 I’m interested in python and C/C# development focusing on cyber security concepts
-- 🌱 I’m currently learning C!
+- 👀 I’m interested in python and C/C#/C++ development focusing on cyber security concepts
+- 🌱 I’m currently learning C++!
 - 📫 You can reach me at brandon.lowe.a@outlook.com or through my linkedin: https://www.linkedin.com/in/brandon-lowe-681b81160/
 
 <!---
